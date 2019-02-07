@@ -1,0 +1,55 @@
+h1{
+            color:black;
+          text-align:center;
+          margin-top:10px;
+          margin-bottom:0px;
+          margin-right:20px;
+           margin-left:20px;
+           font-style: cursive;
+        }
+        h2{
+            color:Deeppink;
+          column-count:2;
+		  column-gap:30px;
+          text-align:left;
+          margin-top:10px;
+          margin-bottom:10px;
+          margin-right:20px;
+          margin-left:20px;
+         font-family: cursive;
+        }
+        
+        
+        
+        
+        .form1{
+          color:black;
+          text-align:left;
+          margin-top:10px;
+          margin-bottom:0px;
+          margin-right:20px;
+           margin-left:20px;
+         font-size:14px;
+           line-height:9px;
+        }  
+        .form2{
+         color:black;
+          text-align:left;
+          margin-top:14px;
+          margin-bottom:0px;
+          margin-right:20px;
+           margin-left:20px;
+         font-size:14px;
+         line-height:30px;
+        }
+        .form3{
+         color:black;
+          text-align:left;
+          margin-top:14px;
+          margin-bottom:0px;
+          margin-right:20px;
+           margin-left:20px;
+         font-size:14px;
+         line-height:20px;
+        }
+        
